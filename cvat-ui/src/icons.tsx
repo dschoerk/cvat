@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT
 
-import React from 'react';
+import React from 'react'; // a tiny change
 
 import SVGCVATLogo from './assets/cvat-logo.svg';
 import SVGCursorIcon from './assets/cursor-icon.svg';
